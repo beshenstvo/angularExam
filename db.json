@@ -1,0 +1,70 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Рита",
+      "surname": "Симушкина",
+      "patronymic": "Сергеевна",
+      "phone": 9988866,
+      "email": "ritaorr@gmail.com",
+      "birthday": "2010-11-01",
+      "group": "291-844",
+      "direction": 0
+    },
+    {
+      "name": "Игорь",
+      "surname": "Левинский",
+      "patronymic": "Олегович",
+      "phone": 1111555,
+      "email": "levinskii@gmail.com",
+      "birthday": "1987-11-01",
+      "direction": 1,
+      "group": "191-344",
+      "id": 2
+    },
+    {
+      "name": "Руфина",
+      "surname": "Гатауллина",
+      "patronymic": "Ринатовна",
+      "phone": 79163398114,
+      "email": "mufwoo@gmail.com",
+      "birthday": "1999-05-11",
+      "direction": 1,
+      "group": "191-322",
+      "id": 3
+    },
+    {
+      "name": "Сунгур",
+      "surname": "Гасанов",
+      "patronymic": "Юсупович",
+      "phone": 11253612,
+      "email": "sungur@gmail.com",
+      "birthday": "1567-10-11",
+      "direction": 0,
+      "group": "191-322",
+      "id": 4
+    },
+    {
+      "name": "t1111",
+      "surname": "t2",
+      "patronymic": null,
+      "phone": "43534",
+      "email": "dfgdfg",
+      "birthday": "2021-01-21",
+      "direction": 0,
+      "group": "1912-32",
+      "id": 5
+    },
+    {
+      "name": "someee",
+      "surname": "test",
+      "patronymic": null,
+      "phone": "3423",
+      "email": "mfjs",
+      "birthday": "2021-01-10",
+      "direction": 0,
+      "group": "191-322",
+      "id": 6
+    }
+  ]
+}
