@@ -12,17 +12,6 @@
       "direction": 0
     },
     {
-      "name": "Игорь",
-      "surname": "Левинский",
-      "patronymic": "Олегович",
-      "phone": 1111555,
-      "email": "levinskii@gmail.com",
-      "birthday": "1987-11-01",
-      "direction": 1,
-      "group": "191-344",
-      "id": 2
-    },
-    {
       "name": "Руфина",
       "surname": "Гатауллина",
       "patronymic": "Ринатовна",
@@ -45,26 +34,15 @@
       "id": 4
     },
     {
-      "name": "t1111",
-      "surname": "t2",
-      "patronymic": null,
-      "phone": "43534",
-      "email": "dfgdfg",
-      "birthday": "2021-01-21",
-      "direction": 0,
-      "group": "1912-32",
-      "id": 5
-    },
-    {
-      "name": "someee",
-      "surname": "test",
-      "patronymic": null,
-      "phone": "3423",
-      "email": "mfjs",
-      "birthday": "2021-01-10",
+      "name": "Шеше",
+      "surname": "Шеше",
+      "patronymic": "Шеше",
+      "phone": "908990",
+      "email": "hjbhs",
+      "birthday": "2021-01-01",
       "direction": 0,
       "group": "191-322",
-      "id": 6
+      "id": 7
     }
   ]
 }

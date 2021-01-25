@@ -154,11 +154,13 @@ constructor(private http: HttpClient) {}
 
   }
   async OnDeleteInEdit(){
+    
     await this.http.delete(`http://localhost:3000/persons/`+this.id).subscribe(data => {
       console.log(data);
     });
     this.getData();
      console.log(this.id);
+     (!this.check)?(this.check = true):(this.check = false);
   }
 }
 
